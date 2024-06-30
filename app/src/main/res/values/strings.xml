@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="hint_car_count">Введите количество машин</string>
+    <string name="button_start_race">Начать гонку</string>
+</resources>
